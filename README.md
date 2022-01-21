@@ -2,7 +2,7 @@
 
 - :man_student:I'm an undergraduate student in Computer Science at UFCA;
 - :green_book:I'm currently learning **React**, **React-Native**, and always improving my **JS** and coding skills;
-- :slightly_smiling_face:  Pronouns: He/his;
+- :slightly_smiling_face:  Pronouns: He/him/his;
 
 ## Knowledge:
 
