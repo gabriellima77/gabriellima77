@@ -1,6 +1,6 @@
 ### Hi there :wave:, I'm Gabriel Lima
 
-- :man_student:I'm an undergraduate student in Computer Science at UFCA;
+- :man_student:I'm an undergraduate in Computer Science at UFCA;
 - :green_book:I'm currently learning **React**, **React-Native**, and always improving my **JS** and coding skills;
 - :slightly_smiling_face:  Pronouns: He/him/his;
 
